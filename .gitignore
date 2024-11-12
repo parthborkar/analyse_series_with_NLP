@@ -1,0 +1,4 @@
+*.pyc
+*.ipunb_checkpoints
+.env
+*__pychache__/
