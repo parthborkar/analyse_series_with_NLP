@@ -5,3 +5,4 @@ huggingface_hub==0.24.5
 nltk==3.8.1
 gradio==4.36.1
 fastapi<0.113.0
+pyvis==0.3.2 
